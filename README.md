@@ -18,16 +18,10 @@ Este repositório apresenta a aplicação do modelo YOLOv8 (You Only Look Once, 
 
 # 📂 Estrutura do projeto:
 
-# bash
-# Copiar
-# Editar
+#### bash
+#### Copiar
+#### Editar
 
-├── datasets/           # Dados e anotações (formato YOLO)
-├── notebooks/          # Notebooks de testes e experimentos
-├── scripts/            # Scripts de treino e inferência
-├── results/            # Saída com imagens/vídeos anotados
-├── requirements.txt    # Dependências do projeto
-└── README.md           # Documentação geral
 
 # ⚙️ Como usar:
 # Clone o repositório
